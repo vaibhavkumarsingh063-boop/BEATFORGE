@@ -1,0 +1,6 @@
+{
+  "name": "BeatForge Studio",
+  "description": "Professional browser-based Digital Audio Workstation (DAW) for beat making, vocal recording, melody composition, and track mixing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
